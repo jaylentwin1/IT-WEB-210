@@ -1,1 +1,79 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cammie The Artisit</title>
+</head>
+<nav>
+    <h4>Navigation Bar</h4>
+    <ul>
+        <li>Home Page</li>
+        <li>Fan Forum</li>
+        <li>Contact Me</li>
+    </ul>
+    </nav>
+<body>
+    <header>
+        <h1>
+        Cammie
+        </h1>
+    <h2>
+        An <strong>R&B/Soul</strong> singer from Rio de Janeiro
+    </h2>
+        <img height="300" src="Cammie.png" alt="A picture of Cammie the singer">
+    </header>
+    <main>
+        <p>
+            Cammie is a singer/songwriter from Rio de Janeiro. Music has always been in her life. Starting her music career at 12, she did a comercial for Leader store and since then has participated on The Voice Brasil 2016 becoming one of the semi-finalist, recording the soundtrack for series on Netflix and Globoplay and releasing many projects to show her music. 
+        </p>
+        <p>
+            She brings vintage vibes with a touch of the new era so everyone can identify and she talks about our daily life, love, stories and much more. Her work goes from Pop and R&B to Soul music. Cammie has released singles, a project called “60 Dias Para Desapegar” to help people going through hard times at the end of a relationship and her latest release was the EP “Doce Como Bala” that already has over 2.8 million streams with 7 tracks and counts with features of R&B singer “Anchietx” and one of the biggest Brazilian Samba singers “Ferrugem”. You’re mine is the first single in English by Cammie, who’s been growing her fanbase not only in Brazil, but around the world. 
+        </p>
+        <p>
+            Cammie has over 19 million streams and 50 k monthly listeners. She’s an independent artist ready to show the world that everything is possible when you love what you do.
+        </p>
+        <div>
+            <table>
+                <caption>
+                    The Best Songs by Cammie
+                </caption>
+                <tr>
+                  <th colspan="2">Song Name</th>
+                  <th>Album</th>
+                  <th colspan="2">Official Artwork</th>
+                </tr>
+                <tr>
+                  <td colspan="2">Até te conhecer</td>
+                  <td>Single</td>
+                  <td colspan="2"><img src="ateteconhecer.png"></td>
+                </tr>
+                <tr>
+                  <td colspan="2">Mago</td>
+                  <td>Single</td>
+                  <td colspan="2"><img src="mago.png"></td>
+                </tr>
+                <tr>
+                    <td colspan="2">Mais que uma amizade</td>
+                    <td>Single</td>
+                    <td colspan="2"><img src="maisqueumaamizade.png"></td>
+                  </tr>
+              </table>
+            </div>
+        <h5>Most Recent Albums</h5>
+                <ol>
+                    <li>Voyages</li>
+                    <li>Doce Como Bala</li>
+                    <li>The Journey Home</li>
+                </ol>
+        <p>
+            <h2>More information on Cammie</h2>
+            <a href="https://www.instagram.com/oficialcammie/">https://www.instagram.com/oficialcammie/</a>
+        </p>
+    </main>
+     <footer>
+                The author of this webpage is Jaylen El Saghur Jackson<br>
+        <a href="https://salvador.ba.gov.br">Salvador, Brazil</a>
+    </footer>
+        </body>
+</html>
